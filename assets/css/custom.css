@@ -53,9 +53,15 @@
 .buy-btn {
   text-align: center;
 }
+
 .buy-btn > button {
   width: 80%;
-  margin: 0 auto;
+}
+
+.review-card > p {
+  display: inline-block;
+  min-height: 180px;
+  font-size: 20px;
 }
 
 /*------------------------------------
